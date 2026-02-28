@@ -1,8 +1,7 @@
 # miniappbench.gtihub.io
 
 ---
-layout: default
-title: "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants"
+## MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -185,7 +184,7 @@ title: "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Respons
 
 <div align="center">
 
-<h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">MiniAppBench</h1>
+<h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants</h1>
 
 <p style="font-size: 1.15rem; color: var(--color-text-light); font-weight: 300; max-width: 800px; margin: 1rem auto 2rem;">
 Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants
