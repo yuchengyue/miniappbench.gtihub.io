@@ -1,9 +1,5 @@
 # miniappbench.gtihub.io
 
----
-## MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants
----
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=IBM+Plex+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
