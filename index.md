@@ -163,7 +163,17 @@ title: "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Respons
     gap: 0.75rem;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 2rem 0;
+    margin: 2.2rem 0;
+  }
+
+  .badge-row a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.15rem 0.35rem;
+  }
+
+  .badge-row img {
+    height: 26px;
   }
 
   /* Subtle animation on scroll */
