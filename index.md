@@ -222,7 +222,7 @@ Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assi
 **MiniAppBench** is the first comprehensive benchmark designed to evaluate **principle-driven, interactive application generation**. While traditional benchmarks focus on static layouts or algorithmic snippets, MiniAppBench shifts the paradigm toward **MiniApps**—HTML-based applications that require both visual rendering and complex interaction logic.
 
 <div align="center" style="margin: 25px 0;">
-  <img src="./intro2.png" alt="From Text to MiniApps" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  <img src="./intro.png" alt="From Text to MiniApps" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
   <p style="font-size: 0.9em; color: #666; line-height: 1.5; margin-top: 12px; max-width: 500px;"><em><strong>Figure 1.</strong> The shift from text to MINIAPPS. Unlike static text, MINIAPPS transforms abstract explanations into intuitive visualizations and unlocks actionable tasks (e.g., diet tracking) that were previously impossible.</em></p>
 </div>
 
@@ -239,7 +239,7 @@ Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assi
 ## Benchmark Construction and Statistics
 
 <div align="center">
-  <img src="./pipeline2.png" alt="MiniAppBench Construction Pipeline" style="max-width: 95%; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <img src="./pipeline.png" alt="MiniAppBench Construction Pipeline" style="max-width: 95%; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
   <p><em>Figure 1: MiniAppBench data construction pipeline from production application (10M+ generations) to curated evaluation benchmark</em></p>
 </div>
 
